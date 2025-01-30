@@ -38,18 +38,18 @@ This dataset contains comprehensive data on COVID-19, including deaths, cases, v
 
 ## Tech Stack
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Python**: pyodbc, matplotlib, seaborn, pandas
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◦**Python**: pyodbc, matplotlib, seaborn, pandas
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**SQL Server**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◦**SQL Server**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tableau**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◦**Tableau**
 
 
 ## Analysis & Results
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Vaccination & Mortality:** An inverse correlation exists between vaccination rates and COVID-19 mortality in most countries. However, this relationship is influenced by factors such as population density, healthcare quality, and accessibility.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◦**Vaccination & Mortality:** An inverse correlation exists between vaccination rates and COVID-19 mortality in most countries. However, this relationship is influenced by factors such as population density, healthcare quality, and accessibility.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Stringency & Incidence Rate:** For countries like India and the U.S., findings indicate that increased government stringency measures contributed to a decline in virus spread when implemented effectively.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◦**Stringency & Incidence Rate:** For countries like India and the U.S., findings indicate that increased government stringency measures contributed to a decline in virus spread when implemented effectively.
 
 This project provides actionable insights into the pandemic's impact and response strategies, offering valuable information for policymakers, healthcare professionals, and researchers.
 
